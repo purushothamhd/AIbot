@@ -1,5 +1,5 @@
 ---
-title: LLMintro
+title: AIbot
 emoji: 🏃
 colorFrom: indigo
 colorTo: green
