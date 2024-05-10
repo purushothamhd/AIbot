@@ -9,6 +9,6 @@ app_file: app.py
 pinned: false
 ---
 
-Check out the live page : https://huggingface.co/spaces/purushothamhd/LLMintro
-It no longer works, the model has been deprecated, will update with the new model soon.
+Check out the live page : https://huggingface.co/spaces/purushothamhd/LLMintro <br>
+It no longer works, the model has been deprecated, will update with the new model soon. <br>
                 Thank you
